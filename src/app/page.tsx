@@ -48,6 +48,7 @@ export default function Home() {
               <li>Next.js 14</li>
               <li>TypeScript</li>
               <li>Tailwind CSS</li>
+              <li>Supabase (Database)</li>
             </ul>
           </div>
         </div>
